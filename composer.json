@@ -1,0 +1,14 @@
+{
+    "name": "me/me",
+    "description": "treehouse project",
+    "require": {
+        "monolog/monolog": "^1.17"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DaRelle Rollins",
+            "email": "darelle.rollins@gmail.com"
+        }
+    ]
+}
